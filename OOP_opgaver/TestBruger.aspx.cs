@@ -9,14 +9,14 @@ public partial class TestBruger : System.Web.UI.Page
 {
     protected void Page_Load(object sender, EventArgs e)
     {
-        if (MySystem.User.IsUser())
-        {
-            lbl_user.Text = "Du er logget på!";
-        }
-        else
-        {
-            lbl_user.Text = "Du er IKKE logget på!";
-        }
+        //if (MySystem.User.IsUser())
+        //{
+        //    lbl_user.Text = "Du er logget på!";
+        //}
+        //else
+        //{
+        //    lbl_user.Text = "Du er IKKE logget på!";
+        //}
 
     }
     protected void btn_opret_Click(object sender, EventArgs e)

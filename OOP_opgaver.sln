@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_opgaver", "OOP_opgaver\OOP_opgaver.csproj", "{F1B04E49-62B8-4D22-8C16-4BB8274C5D7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurv", "Kurv\Kurv.csproj", "{5ACE6B01-E623-474F-9E4A-EB234D5F5D5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F1B04E49-62B8-4D22-8C16-4BB8274C5D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1B04E49-62B8-4D22-8C16-4BB8274C5D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1B04E49-62B8-4D22-8C16-4BB8274C5D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACE6B01-E623-474F-9E4A-EB234D5F5D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACE6B01-E623-474F-9E4A-EB234D5F5D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACE6B01-E623-474F-9E4A-EB234D5F5D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACE6B01-E623-474F-9E4A-EB234D5F5D5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
