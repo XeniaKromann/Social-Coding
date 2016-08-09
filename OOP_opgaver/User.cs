@@ -17,16 +17,20 @@ namespace MySystem
         private string lastname;
         private int role;
         #endregion
-        
 
-
+        #region Constructors - Klassens konstruktør(er)
         public User()
         {
             //
             // TODO: Add constructor logic here
             //
         }
+        #endregion
 
+        #region Properties - Klassens offentlige adgang til de indkapslede fields
+        #endregion
+
+        #region methods - Klassens offentlige metoder
         public static bool IsUser()
         {
             bool result = false;
@@ -56,5 +60,7 @@ namespace MySystem
             }
 
         }
+        #endregion
+
     }
 }
