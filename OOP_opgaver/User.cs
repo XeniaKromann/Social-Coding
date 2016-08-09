@@ -17,7 +17,7 @@ namespace MySystem
         private string lastname;
         private int role;
         #endregion
-
+        
 
 
         public User()

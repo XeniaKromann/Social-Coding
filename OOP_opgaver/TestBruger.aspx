@@ -14,6 +14,7 @@
         <asp:Button ID="btn_opret" Text="Opret" runat="server" OnClick="btn_opret_Click" />
         <asp:Button ID="btn_slet" Text="Slet" runat="server" OnClick="btn_slet_Click" />
         <asp:Button ID="btn_reload" Text="Reload" runat="server" />
+        <asp:Label Text="text" runat="server" />
     </div>
     </form>
 </body>
